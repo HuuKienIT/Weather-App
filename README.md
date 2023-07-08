@@ -1,5 +1,5 @@
 # Weather-App
-A Python application to show weather information using API
+Python application to show weather information using API
 
 
 - Interface after starting the application
